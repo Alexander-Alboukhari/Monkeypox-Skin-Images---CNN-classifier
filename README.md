@@ -10,7 +10,12 @@ data augmentation, stratified k-fold cross-validation, and class weighting . The
 model ResNet50, attained an accuracy of 96.9% and an F1-score of 96.0%, but an ensemble
 method enhanced performance to 98.0% accuracy. Grad-CAM visualizations were employed to improve
 model explainability, allowing for the validation that classifications have a basis in clinically
-pertinent image features. Additional the final model was implemented via a Gradio interface, providing
+pertinent image features.
+
+<img width="500" height="500" alt="Model" src="https://github.com/user-attachments/assets/a1d9d1ff-7531-4cad-9b3a-7e2978abbb7d" />
+
+
+Additional the final model was implemented via a Gradio interface, providing
 an accessible interface for clinical use.This study highlights the viability of CNN based approaches
 for early detection of monkeypox, providing an opportunity for more accessible and efficient diagnosis
 in environments with limited resources.
