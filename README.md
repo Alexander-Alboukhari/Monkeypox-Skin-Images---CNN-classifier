@@ -25,4 +25,4 @@ for early detection of monkeypox, providing an opportunity for more accessible a
 in environments with limited resources.
 
 
-<img width="500" height="500" alt="flow" src="https://github.com/user-attachments/assets/ade6c7fb-a91c-4ca4-a037-85212dd7abdf" />
+<img width="800" height="500" alt="flow" src="https://github.com/user-attachments/assets/ade6c7fb-a91c-4ca4-a037-85212dd7abdf" />
