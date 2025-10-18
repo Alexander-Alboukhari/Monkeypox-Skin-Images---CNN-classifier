@@ -6,7 +6,7 @@ develop and evaluate multiple convolutional neural network (CNN) architectures, 
 DenseNet169,EfficientNetB7,InceptionV3,VGG16,MobileNetV2,Xception and ensemble methods, for
 identifying skin illnesses as monkeypox, chickenpox, measles, and normal skin.
 
-<img width="500" height="500" alt="CNN Ar" src="https://github.com/user-attachments/assets/cc4a50fd-4ed4-473a-b021-87cc5f30851f" />
+<img width="800" height="550" alt="CNN Ar" src="https://github.com/user-attachments/assets/cc4a50fd-4ed4-473a-b021-87cc5f30851f" />
 
 
 A comprehensive machine learning pipeline has been developed with including transfer learning,
@@ -16,7 +16,7 @@ method enhanced performance to 98.0% accuracy. Grad-CAM visualizations were empl
 model explainability, allowing for the validation that classifications have a basis in clinically
 pertinent image features.
 
-<img width="500" height="500" alt="Model" src="https://github.com/user-attachments/assets/a1d9d1ff-7531-4cad-9b3a-7e2978abbb7d" />
+<img width="800" height="500" alt="Model" src="https://github.com/user-attachments/assets/a1d9d1ff-7531-4cad-9b3a-7e2978abbb7d" />
 
 
 Additional the final model was implemented via a Gradio interface, providing
