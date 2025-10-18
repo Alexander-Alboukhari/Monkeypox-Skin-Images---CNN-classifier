@@ -14,4 +14,6 @@ pertinent image features. Additional the final model was implemented via a Gradi
 an accessible interface for clinical use.This study highlights the viability of CNN based approaches
 for early detection of monkeypox, providing an opportunity for more accessible and efficient diagnosis
 in environments with limited resources.
+
+
 <img width="500" height="500" alt="flow" src="https://github.com/user-attachments/assets/ade6c7fb-a91c-4ca4-a037-85212dd7abdf" />
