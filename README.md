@@ -5,6 +5,10 @@ using digital skin lesion images and uses the publicly available Monkeypox Skin 
 develop and evaluate multiple convolutional neural network (CNN) architectures, including ResNet50,
 DenseNet169,EfficientNetB7,InceptionV3,VGG16,MobileNetV2,Xception and ensemble methods, for
 identifying skin illnesses as monkeypox, chickenpox, measles, and normal skin.
+
+<img width="500" height="500" alt="CNN Ar" src="https://github.com/user-attachments/assets/cc4a50fd-4ed4-473a-b021-87cc5f30851f" />
+
+
 A comprehensive machine learning pipeline has been developed with including transfer learning,
 data augmentation, stratified k-fold cross-validation, and class weighting . The top performing individual
 model ResNet50, attained an accuracy of 96.9% and an F1-score of 96.0%, but an ensemble
